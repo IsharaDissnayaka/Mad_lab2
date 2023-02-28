@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD_Lab_2</string>
+    <string name="tv_Register">Register</string>
+    <string name="Email1">Email</string>
+    <string name="tx_Phone">Phone Number</string>
+    <string name="tv_Password">Password1</string>
+    <string name="tv_Password2">Password</string>
+    <string name="btn_Submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="tv_name">Name</string>
+</resources>
